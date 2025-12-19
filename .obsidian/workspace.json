@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7e7c0653b179ae",
+        "id": "ac1d16da57ad5d4e",
         "type": "tabs",
         "children": [
           {
-            "id": "b36738b20be19f4c",
+            "id": "a113cf62fddbae1b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -190,7 +190,14 @@
   },
   "active": "53c9618ec7b61474",
   "lastOpenFiles": [
+    "README.md",
+    "2025-12-11.md",
+    "aniii",
+    "Notes/aniii",
+    "Notes/Module1: Introduction to Devops.pptx",
+    "Notes",
     "Untitled.md",
+    "Notes",
     "https:/github.com/danish-ali-droid/Devops-Course.git",
     "https:/github.com/danish-ali-droid",
     "https:/github.com",
@@ -206,10 +213,7 @@
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled",
     "devops-course",
-    "Untitled.base",
-    "Untitled.canvas",
-    "2025-12-11.md"
+    "Untitled.canvas"
   ]
 }
